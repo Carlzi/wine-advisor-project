@@ -1,0 +1,34 @@
+ultralytics==8.2.40
+numpy==1.26.4
+tensorflow>=2.10.0
+torch
+pytest
+pylint
+ipdb
+jupyterlab
+pandas
+matplotlib
+seaborn
+scikit-learn
+tesseract
+pytesseract
+pybboxes
+imutils
+Pillow
+opencv_python
+tqdm
+gensim==4.2.0
+scipy==1.10.0
+leven
+fastapi
+uvicorn
+# tests
+httpx           # HTTP client
+pytest-asyncio  # asynchronous I/O support for pytest
+unidecode
+google-cloud-storage
+google-cloud-bigquery
+pyarrow
+db_dtypes
+pylcs
+python-multipart
